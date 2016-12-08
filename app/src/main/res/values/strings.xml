@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Redmart Catalogue</string>
+    <string name="vendor_label">Sold by</string>
+    <string name="product_desc_label">About the product</string>
+</resources>
